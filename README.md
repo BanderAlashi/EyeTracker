@@ -31,7 +31,7 @@ pip install opencv-python numpy mediapipe==0.10.14
 ## Run
 
 ```bash
-python main.py
+python openCV.py
 ```
 
 Press `Q` to quit the application.
@@ -43,5 +43,3 @@ Press `Q` to quit the application.
 * NumPy
 * Python
 
-```
-```
